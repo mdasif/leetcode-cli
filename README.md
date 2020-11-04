@@ -8,7 +8,7 @@
 
 <img src="https://github.com/skygragon/leetcode-cli/raw/master/docs/logo.png" align="right">
 
-A productive cli tool to enjoy leetcode!
+A productive cli tool to enjoy leetcode! updated by mdasif
 
 Great thanks to leetcode.com, a really awesome website!
 
